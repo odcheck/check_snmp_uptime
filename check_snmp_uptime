@@ -4,7 +4,7 @@
 # Description : This is a fork of check_snmp_uptime it checks the uptime of a host via snmp
 # Author : Ben Odenthal
 # Version : 1.1
-# Original Author : Yoann LAMY
+# Original Autor : Yoann LAMY
 # Licence : GPLv2
 
 # Commands
