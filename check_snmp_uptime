@@ -1,9 +1,10 @@
 #!/bin/bash
 
-# check_snmp_uptime
-# Description : Check the uptime of a host
-# Version : 1.0
-# Author : Yoann LAMY
+# check_snmp_uptime 
+# Description : This is a fork of check_snmp_uptime it checks the uptime of a host via snmp
+# Author : Ben Odenthal
+# Version : 1.1
+# Original Author : Yoann LAMY
 # Licence : GPLv2
 
 # Commands

@@ -1,6 +1,6 @@
 This plugin can check the uptime of a host using SNMP v1 queries.
 
-check_snmp_uptime is written in Bash and is distributed under the GPLv2 license. This plugin have been created by Yoann LAMY.
+check_snmp_uptime is written in Bash and is distributed under the GPLv2 license. This plugin have been orginal created by Yoann LAMY and forked by Ben Odenthal
 
 Usage: ./check_snmp_uptime -H xxx.xxx.xxx.xxx -C public -w 50 -c 100
 
